@@ -31,5 +31,5 @@ Concept of nested list
 
 To do task
 
-- []copy
+- [ ]copy
 - [x]paste
